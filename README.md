@@ -24,9 +24,10 @@ Train the selected model using the training data.
 
 Step 8: Evaluate the Model
 Use evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE) to assess the model's performance on the testing data.
+
 Step 9: Hyperparameter Tuning
-
 If necessary, tune the hyperparameters of your chosen model to optimize its performance.
-Step 10: Make Predictions
 
+
+Step 10: Make Predictions
 Once you have a trained and optimized model, you can use it to make sales predictions based on new data.
